@@ -1,0 +1,15 @@
+{
+  "name": "bet-api",
+  "version": "1.0.0",
+  "description": "Bet API",
+  "main": "bet.js",
+  "scripts": {
+    "start": "node bet.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
