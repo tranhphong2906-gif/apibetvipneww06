@@ -1,6 +1,7 @@
 {
   "name": "apibetvipneww06",
   "version": "1.0.0",
+  "description": "API Baccarat Prediction",
   "main": "bet.js",
   "scripts": {
     "start": "node bet.js"
