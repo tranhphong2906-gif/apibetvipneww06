@@ -1,15 +1,12 @@
 {
-  "name": "bet-api",
+  "name": "apibetvipneww06",
   "version": "1.0.0",
-  "description": "Bet API",
   "main": "bet.js",
   "scripts": {
     "start": "node bet.js"
   },
   "dependencies": {
-    "express": "^5.1.0"
-  },
-  "engines": {
-    "node": ">=20"
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
   }
 }
